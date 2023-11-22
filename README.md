@@ -1,3 +1,8 @@
+# Active storage
+[S3](https://alex-okorkov.medium.com/how-to-set-up-aws-s3-bucket-on-rails-with-activestorage-d384075ce773)
+[another example with scoping to use](https://www.honeybadger.io/blog/rails-app-aws-s3/)
+[may be adrift](https://dev.to/nemwelboniface/the-ultimate-guide-to-active-storage-in-rails-2f57)
+
 # Template that includes devise, BS5
 - The following are how features and config were applied.
 
